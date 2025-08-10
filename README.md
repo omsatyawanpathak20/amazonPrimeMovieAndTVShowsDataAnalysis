@@ -85,7 +85,6 @@ Performed in `In [151]`:
 ## 🛠️ Technologies Used
 - **Python**: Core language
 - **Pandas**: Data manipulation
-- **NumPy**: Numerical operations
 - **Matplotlib & Seaborn**: Visualization
 
 ---
@@ -101,11 +100,6 @@ Performed in `In [151]`:
 
 ---
 
-## 📚 Future Enhancements
-- Add interactive dashboards using Plotly or Streamlit
-- Perform sentiment analysis on descriptions
-- Cluster genres using NLP techniques
-- Compare with Netflix or Disney+ datasets
 
 ---
 
